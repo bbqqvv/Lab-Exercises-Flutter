@@ -9,12 +9,6 @@ Thông tin sinh viên:
 - Mã SV: 22IT.B239
 - Lớp sinh hoạt: 22SE1B
 
-Thông tin khác:
-
-- Github Repository <https://github.com/letangphuquy/Flutter-Lab-Exercises>
-- Video demo: [Youtube playlist trên kênh cá nhân](https://www.youtube.com/watch?v=Sgkfrd2CEfQ&list=PLPI3xrnQIQNYOzHIncBi2i697j4U2LeF4)
-- Thời gian: 3 tháng 5, năm 2025
-
 | Lab # | Project Name | Description | Documentation |
 |-------|--------------|-------------|---------------|
 | Lab 1 | I Am Rich | Hiển thị tiêu đề I am Rich cùng hình ảnh viên kim cương ở giữa | [README](lab1_i_am_rich/README.md) |
